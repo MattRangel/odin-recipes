@@ -1,1 +1,1 @@
-Working through lessos in The Odin Project.
+Working through lessons in The Odin Project.
